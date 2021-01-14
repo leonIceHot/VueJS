@@ -1,0 +1,30 @@
+{
+    "chartData1": {
+        "src":"https://cdn.vuetifyjs.com/images/cards/docks.jpg",
+        "txt11":"政府機關",
+        "src1": "https://helpdreams.moe.edu.tw/", "txt1": "教育部圓夢助學網",
+        "src2": "https://sloan.bot.com.tw/newsloan/login/SLoanLogin.action", "txt2": "臺灣銀行就學貸款入口網",
+        "src3": "http://sa.dyu.edu.tw/ulc2701/perk.php", "txt3": "大葉大學獎助學金專區",
+        "src4": "http://sa.dyu.edu.tw/ulc2701/", "txt4": "學校公布欄、各系所公告及網頁"
+      },
+      "chartData2": {
+        "src":"https://cdn.vuetifyjs.com/images/cards/docks.jpg",
+        "txt21":"本校提供",
+        "src1": "http://sis.dyu.edu.tw/RWD/", "txt1": "學生資訊系統徵才、工讀資訊",
+        "src2": "http://sa.dyu.edu.tw/", "txt2": "學務處網頁最新消息",
+        "src3": "http://sa.dyu.edu.tw/ulc2701/", "txt3": "生活與住宿輔導組網頁最新消息",
+        "src4": "http://sa.dyu.edu.tw/cdc4300/article-27", "txt4": "職涯發展中心就業、工讀訊息",
+        "src5": "http://sa.dyu.edu.tw/ulc2701/perk.php", "txt5": "大葉大學獎助學金專區(校內獎助學金)",
+        "src6": "http://sa.dyu.edu.tw/ulc2701/perk.php", "txt6": "大葉大學獎助學金專區(就學優待減免)",
+        "src7": "http://sa.dyu.edu.tw/ulc2701/perk.php", "txt7": "大葉大學獎助學金專區(急難救助)",
+        "src8": "http://sa.dyu.edu.tw/ulc2701/perk.php", "txt8": "大葉大學獎助學金專區(學雜費分期)",
+        "src9": "http://sa.dyu.edu.tw/ulc2701/", "txt9": "學校公布欄、各系所公告及網頁"    
+      },
+      "chartData3": {
+        "src":"https://cdn.vuetifyjs.com/images/cards/docks.jpg",
+        "txt31":"民間機構",
+        "src1": "https://helpdreams.moe.edu.tw/", "txt1": "教育部圓夢助學網",
+        "src2": "http://sa.dyu.edu.tw/ulc2701/perk.php", "txt2": "大葉大學獎助學金專區(校外獎助學金)",
+        "src3": "http://sa.dyu.edu.tw/ulc2701/", "txt3": "學校公布欄、各系所公告及網頁"
+      }
+  }

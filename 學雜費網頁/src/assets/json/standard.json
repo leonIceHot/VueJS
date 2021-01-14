@@ -1,0 +1,347 @@
+{
+    "headers": [
+        {
+            "text": "學院別",
+            "align": "end",
+            "sortable": false,
+            "value": "name",
+            "width":"15%"
+        },
+        {
+            "text": "108學年度",
+            "value": "sem108",
+            "align": "end",
+            "width":"10%"
+        },
+        {
+            "text": "109學年度",
+            "value": "sem109",
+            "align": "end",
+            "width":"10%"
+
+        },
+        {
+            "text": "調整率",
+            "value": "ratio",
+            "align": "end",
+            "width":"10%"
+        },
+        {
+            "text": "調整",
+            "value": "change",
+            "align": "end",
+            "width":"10%"
+        }
+    ],
+    "tables": [
+        {
+            "name": "工學院、護健學院醫材系所",
+            "sem108": 39330,
+            "sem109": 39330,
+            "ratio": 0,
+            "change": "未調整"
+        },
+        {
+            "name": "管理學院、護健學院運健系、觀餐學院觀光系及休管系",
+            "sem108": 37597,
+            "sem109": 37597,
+            "ratio": 0,
+            "change": "未調整"
+        },
+        {
+            "name": "設藝學院",
+            "sem108": 39330,
+            "sem109": 39330,
+            "ratio": 0,
+            "change": "未調整"
+        },
+        {
+            "name": "外語學院",
+            "sem108": 37597,
+            "sem109": 37597,
+            "ratio": 0,
+            "change": "未調整"
+        },
+        {
+            "name": "生資學院",
+            "sem108": 39330,
+            "sem109": 39330,
+            "ratio": 0,
+            "change": "未調整"
+        },
+        {
+            "name": "觀光餐旅學院",
+            "sem108": 39330,
+            "sem109": 39330,
+            "ratio": 0,
+            "change": "未調整"
+        },
+        {
+            "name": "護健學院護理系及視光系",
+            "sem108": 39660,
+            "sem109": 39660,
+            "ratio": 0,
+            "change": "未調整"
+        }
+    ],
+    "headers2": [
+        {
+            "text": "學院別",
+            "align": "end",
+            "sortable": false,
+            "value": "name",
+            "width":"15%"
+            
+        },
+        {
+            "text": "108學年度",
+            "value": "sem108",
+            "align": "end",
+            "width":"10%"
+        },
+        {
+            "text": "109學年度",
+            "value": "sem109",
+            "align": "end",
+            "width":"10%"
+        },
+        {
+            "text": "調整率",
+            "value": "ratio",
+            "align": "end",
+            "width":"10%"
+        },
+        {
+            "text": "調整",
+            "value": "change",
+            "align": "end",
+            "width":"10%"
+        }
+    ],
+    "tables2": [
+        {
+            "name": "工學院、護健學院醫材系所",
+            "sem108": 13418,
+            "sem109": 13418,
+            "ratio": 0,
+            "change": "未調整"
+        },
+        {
+            "name": "管理學院、護健學院運健系、觀餐學院觀光系及休管系",
+            "sem108": 8273,
+            "sem109": 8273,
+            "ratio": 0,
+            "change": "未調整"
+        },
+        {
+            "name": "設藝學院",
+            "sem108": 13418,
+            "sem109": 13418,
+            "ratio": 0,
+            "change": "未調整"
+        },
+        {
+            "name": "外語學院",
+            "sem108": 7621,
+            "sem109": 7621,
+            "ratio": 0,
+            "change": "未調整"
+        },
+        {
+            "name": "生資學院",
+            "sem108": 13418,
+            "sem109": 13418,
+            "ratio": 0,
+            "change": "未調整"
+        },
+        {
+            "name": "觀光餐旅學院",
+            "sem108": 13418,
+            "sem109": 13418,
+            "ratio": 0,
+            "change": "未調整"
+        },
+        {
+            "name": "護健學院護理系及視光系",
+            "sem108": 16300,
+            "sem109": 16300,
+            "ratio": 0,
+            "change": "未調整"
+        }
+    ],
+    "headers3": [
+        {
+            "text": "學院別",
+            "align": "end",
+            "sortable": false,
+            "value": "name",
+            "width":"15%"
+        },
+        {
+            "text": "108學年度",
+            "value": "sem108",
+            "align": "end",
+            "width":"10%"
+        },
+        {
+            "text": "109學年度",
+            "value": "sem109",
+            "align": "end",
+            "width":"10%"
+        },
+        {
+            "text": "調整率",
+            "value": "ratio",
+            "align": "end",
+            "width":"10%"
+        },
+        {
+            "text": "調整",
+            "value": "change",
+            "align": "end",
+            "width":"10%"
+        }
+    ],
+    "tables3": [
+        {
+            "name": "工學院、護健學院醫材系所",
+            "sem108": 39951,
+            "sem109": 39951,
+            "ratio": 0,
+            "change": "未調整"
+        },
+        {
+            "name": "管理學院、護健學院運健系、觀餐學院觀光系及休管系",
+            "sem108": 38191,
+            "sem109": 38191,
+            "ratio": 0,
+            "change": "未調整"
+        },
+        {
+            "name": "設藝學院",
+            "sem108": 39951,
+            "sem109": 39951,
+            "ratio": 0,
+            "change": "未調整"
+        },
+        {
+            "name": "外語學院",
+            "sem108": 38191,
+            "sem109": 38191,
+            "ratio": 0,
+            "change": "未調整"
+        },
+        {
+            "name": "生資學院",
+            "sem108": 39951,
+            "sem109": 39951,
+            "ratio": 0,
+            "change": "未調整"
+        },
+        {
+            "name": "觀光餐旅學院",
+            "sem108": "未調整",
+            "sem109": "未調整",
+            "ratio": 0,
+            "change": "未調整"
+        },
+        {
+            "name": "護健學院護理系及視光系",
+            "sem108": "未調整",
+            "sem109": "未調整",
+            "ratio": 0,
+            "change": "未調整"
+        }
+    ],
+    "headers4": [
+        {
+            "text": "學院別",
+            "align": "end",
+            "sortable": false,
+            "value": "name",
+            "width":"15%"
+        },
+        {
+            "text": "108學年度",
+            "value": "sem108",
+            "align": "end",
+            "width":"10%"
+        },
+        {
+            "text": "109學年度",
+            "value": "sem109",
+            "align": "end",
+            "width":"10%"
+        },
+        {
+            "text": "調整率",
+            "value": "ratio",
+            "align": "end",
+            "width":"10%"
+        },
+        {
+            "text": "調整",
+            "value": "change",
+            "align": "end",
+            "width":"10%"
+        }
+    ],
+    "tables4": [
+        {
+            "name": "工學院、護健學院醫材系所",
+            "sem108": 13360,
+            "sem109": 13360,
+            "ratio": 0,
+            "change": "未調整"
+        },
+        {
+            "name": "管理學院、護健學院運健系、觀餐學院觀光系及休管系",
+            "sem108": 8404,
+            "sem109": 8404,
+            "ratio": 0,
+            "change": "未調整"
+        },
+        {
+            "name": "設藝學院",
+            "sem108": 13630,
+            "sem109": 13630,
+            "ratio": 0,
+            "change": "未調整"
+        },
+        {
+            "name": "外語學院",
+            "sem108": 7742,
+            "sem109": 7742,
+            "ratio": 0,
+            "change": "未調整"
+        },
+        {
+            "name": "生資學院",
+            "sem108": 13630,
+            "sem109": 13630,
+            "ratio": 0,
+            "change": "未調整"
+        },
+        {
+            "name": "觀光餐旅學院",
+            "sem108": "未調整",
+            "sem109": "未調整",
+            "ratio": 0,
+            "change": "未調整"
+        },
+        {
+            "name": "護健學院護理系及視光系",
+            "sem108": "未調整",
+            "sem109": "未調整",
+            "ratio": 0,
+            "change": "未調整"
+        }
+    ],
+    "text":{
+        "txt1":"大學部學費收費標準",
+        "txt2":"大學部雜費收費標準",
+        "txt3":"研究所學費收費標準",
+        "txt4":"研究所雜費收費標準",
+        "src1":"<a href='http://ao.dyu.edu.tw/public/public_2.html'>收費標準公告區</a>"
+    }
+}

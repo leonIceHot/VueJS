@@ -1,0 +1,85 @@
+{
+    "headers": [
+        {
+            "text": "學院別",
+            "align": "end",
+            "sortable": false,
+            "value": "name",
+            "width":"15%"
+        },
+        {
+            "text": "教學成本(註1)",
+            "value": "teaching",
+            "align": "end",
+            "width":"10%"
+        },
+        {
+            "text": "學生數(註2)",
+            "value": "student",
+            "align": "end",
+            "width":"10%"
+        },
+        {
+            "text": "平均每生教學成本",
+            "value": "average",
+            "align": "end",
+            "width":"10%"
+        }
+    ],
+    "tables": [
+        {
+            "name": "工學院",
+            "teaching": 226423943,
+            "student": 1229,
+            "average": 184234
+        },
+        {
+            "name": "管理學院",
+            "teaching": 229472990,
+            "student": 1612,
+            "average": 142353
+        },
+        {
+            "name": "設計暨藝術學院",
+            "teaching": 261657212,
+            "student": 2015,
+            "average": 129855
+        },
+        {
+            "name": "外語學院",
+            "teaching": 86564763,
+            "student": 610,
+            "average": 141909
+        },
+        {
+            "name": "生物科技暨資源學院",
+            "teaching": 118517941,
+            "student": 572,
+            "average": 207199
+        },
+        {
+            "name": "觀光餐旅學院",
+            "teaching": 145026097,
+            "student": 1235,
+            "average": 117430
+        },
+        {
+            "name": "護理暨健康學院",
+            "teaching": 166425411,
+            "student": 1247,
+            "average": 133461
+        },
+        {
+            "name": "全校",
+            "teaching": 1234088358,
+            "student": 8520,
+            "average": 144846
+        }
+    ],
+    "text": {
+        "txt":"108學年度各學院教學成本一覽表",
+        "txt1": "教學成本＝教學研究及訓輔支出+獎助學金支出+行政管理支出+圖書。",
+        "txt2": "註1：教學成本係決算數，除可歸屬各學院直接成本外，其餘均以該院學生人數占全校學生人數比率分攤。",
+        "txt3": "註2：學生人數依大學校院校務資料庫108年10月15日填報之人數統計(不含延畢生)。"
+    }
+}

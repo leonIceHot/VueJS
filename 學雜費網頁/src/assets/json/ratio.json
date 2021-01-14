@@ -1,0 +1,84 @@
+{
+    "headers": [
+        {
+            "text": "學院別",
+            "align": "end",
+            "value": "name",
+            "sortable": false,
+            "width":"15%"
+        },
+        {
+            "text": "學雜費標準(A)(元)",
+            "value": "standard",
+            "align": "end",
+            "width":"10%"
+        },
+        {
+            "text": "平均每生教學成本(B)(元)",
+            "value": "cost",
+            "align": "end",
+            "width":"10%"
+        },
+        {
+            "text": "(A)/(B)比率",
+            "value": "ratio",
+            "align": "end",
+            "width":"10%"
+        }
+    ],
+    "tables": [
+        {
+            "name": "工學院",
+            "standard": 105496,
+            "cost": 184234,
+            "ratio": "57.26%"
+        },
+        {
+            "name": "管理學院",
+            "standard": 91740,
+            "cost": 142353,
+            "ratio": "64.45%"
+        },
+        {
+            "name": "設計暨藝術學院",
+            "standard": 105496,
+            "cost": 129855,
+            "ratio": "81.24%"
+        },
+        {
+            "name": "外語學院",
+            "standard": 90436,
+            "cost": 141909,
+            "ratio": "63.73%"
+        },
+        {
+            "name": "生物科技暨資源學院",
+            "standard": 105496,
+            "cost": 207199,
+            "ratio": "50.92%"
+        },
+        {
+            "name": "觀光餐旅學院",
+            "standard": 98618,
+            "cost": 117430,
+            "ratio": "83.98%"
+        },
+        {
+            "name": "護理暨健康學院",
+            "standard": 103012,
+            "cost": 133461,
+            "ratio": "77.19%"
+        },
+        {
+            "name": "全校",
+            "standard": 100042,
+            "cost": 144846,
+            "ratio": "69.07%"
+        }
+    ],
+    "text":{
+        "txt1":"108學年度學校及各學院每生學雜費標準占每生平均教學成本比率表",
+        "txt2":"註：全校學費標準係以108學年度7學院平均學雜費表達（不含在職專班）。"
+    }
+
+}
